@@ -1,0 +1,2 @@
+# Mood-Based-Music-Recommendation-System
+This Web Application helps to you listens a wide variety of song which are saved and also provide request form .Your given request for any song will get to us by Gmail. Main work of this is application is that it take inputs from user regarding their mood and language and show them their required songs. you can search your song on this application and it will either redirect you to youtube(if song in not present in saved songs) or saved song(if song is there). 
